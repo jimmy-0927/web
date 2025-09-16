@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+header{
+    background-color:white;
+    color:black;
+    border: none;
+    width:100%;
+    height:5%;
+    vertical-align: top;
+}
+.head-logo{
+    width:34%;
+    height:120px;
+    padding-left:6%;
+    margin-top: 5px;
+    margin-bottom: 0;
+    display: inline-block;
+}
+.logo-picture{
+    margin-top: 10px;
+    margin-right: 10px;
+    width:100px; 
+    height:90px;
+    border-radius: 50%;
+}
+.logo-word{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+hr{
+    margin: 0;
+}
+.head-word{
+    width:38%;
+    height:120px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 15%;
+    margin-top: 5px;
+}
+.menu-ul{
+    list-style-type: none;
+    width:700px;
+    display: flex;
+    margin-top: 49px;
+}
+.menu-li{
+    margin-right: 20px;
+    margin-top: 10px;
+    width:150px;
+    font-size: 25px;
+    color:black;
+}
+   
+
