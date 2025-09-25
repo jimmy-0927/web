@@ -82,7 +82,6 @@ a:hover{
 }
 .product-info-grid{
     padding-top: 125px;
-    padding-left: 170px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 20px;
